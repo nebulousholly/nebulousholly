@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=200&section=header&text=Alexsander%20Dias&fontSize=46&fontColor=f8f8f2&fontAlignY=36&desc=Back-end%20Python%20Developer&descAlignY=56&descSize=18" width="100%" alt="Alexsander Dias — Back-end Python Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=200&section=header&text=Alexsander%20Dias&fontSize=46&fontColor=f8f8f2&fontAlignY=36&desc=Analista%20de%20Dados%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=56&descSize=18" width="100%" alt="Alexsander Dias — Analista de Dados" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=620&lines=APIs+r%C3%A1pidas+com+FastAPI%2C+Django+e+Flask;Dados+p%C3%BAblicos+viram+produto+no+mapa;Python+%2B+Docker+%2B+PostgreSQL;Sempre+construindo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=620&lines=Analista+de+Dados+%F0%9F%93%8A;Transformando+dados+em+decis%C3%A3o;SQL+%2B+Power+BI+%2B+Excel+%2B+Python;APIs+e+automa%C3%A7%C3%B5es+com+FastAPI;Sempre+construindo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/alexsanderdias/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:alexsanderdiascunha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -17,17 +17,18 @@
 
 ```python
 class Alexsander:
-    cargo = "Desenvolvedor Back-end Python"
-    foco = ["APIs REST", "integração de dados públicos", "processamento de texto", "IA aplicada"]
-    stack_principal = ["Python", "FastAPI", "Django", "Flask", "PostgreSQL", "Docker"]
-    tambem_mando_bem_em = ["React", "Next.js", "TypeScript"]
+    cargo = "Analista de Dados"
+    ferramentas = ["SQL", "Power BI", "Excel", "Python"]
+    foco = ["dashboards e indicadores", "consultas e modelagem SQL", "automação de rotinas", "dados públicos"]
+    diferencial = ["APIs com FastAPI/Django/Flask", "Docker", "React/Next.js"]
     status = "🟢 aberto a oportunidades"
 ```
 
-- 🔭 Construo **back-ends que transformam dados brutos em produto**: de GPS de ônibus em tempo real a métricas de similaridade entre documentos.
-- ⚙️ Gosto de código **testado, documentado e containerizado** — `docker compose up` e pronto.
+- 📊 Trabalho como **Analista de Dados**: transformo dados brutos em **dashboards, indicadores e decisões** com SQL, Power BI e Excel.
+- 🐍 Uso **Python** para ir além da planilha — automatizar coleta, tratar dados e construir APIs que entregam a informação pronta.
+- 🔭 Meus projetos vão de **GPS de ônibus em tempo real** a **métricas de similaridade entre documentos**.
 - 🌱 Estudando **LLMs, prompt engineering** e como usar IA de forma honesta e mensurável.
-- 💬 Me chama para falar de **Python, APIs, dados abertos** ou mobilidade urbana.
+- 💬 Me chama para falar de **dados, BI, Python** ou dados abertos.
 
 ---
 
@@ -35,8 +36,14 @@ class Alexsander:
 
 <div align="center">
 
-**Back-end & Dados**<br/><br/>
-<img src="https://skillicons.dev/icons?i=py,fastapi,django,flask,postgres,sqlite&perline=6" alt="Python, FastAPI, Django, Flask, PostgreSQL, SQLite" />
+**Dados & BI**<br/><br/>
+<img src="https://img.icons8.com/color/96/power-bi-2021.png" height="48" alt="Power BI" title="Power BI" />
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="48" alt="Excel" title="Excel" />
+<img src="https://img.icons8.com/color/96/microsoft-sql-server.png" height="48" alt="SQL Server" title="SQL Server" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,py" height="48" alt="MySQL, PostgreSQL, Python" />
+
+**Back-end**<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,sqlite&perline=4" alt="FastAPI, Django, Flask, SQLite" />
 
 **Infra & Ferramentas**<br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,linux,gcp,git,github&perline=5" alt="Docker, Linux, Google Cloud, Git, GitHub" />
@@ -118,7 +125,7 @@ class Alexsander:
 
 ### 🤝 Bora conversar?
 
-Aberto a vagas e projetos de **back-end Python**. O jeito mais rápido de me achar é pelo **[LinkedIn](https://www.linkedin.com/in/alexsanderdias/)** ou pelo **[e-mail](mailto:alexsanderdiascunha@gmail.com)**.
+Aberto a vagas e projetos de **análise de dados, BI e Python**. O jeito mais rápido de me achar é pelo **[LinkedIn](https://www.linkedin.com/in/alexsanderdias/)** ou pelo **[e-mail](mailto:alexsanderdiascunha@gmail.com)**.
 
 </div>
 
