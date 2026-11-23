@@ -20,6 +20,7 @@ class Alexsander:
     cargo = "Analista de Dados"
     ferramentas = ["SQL", "Power BI", "Excel", "Python"]
     foco = ["dashboards e indicadores", "consultas e modelagem SQL", "automação de rotinas", "dados públicos"]
+    ia = ["Claude", "prompt engineering", "automação com IA", "análise assistida por LLMs"]
     diferencial = ["APIs com FastAPI/Django/Flask", "Docker", "React/Next.js"]
     status = "🟢 aberto a oportunidades"
 ```
@@ -27,7 +28,8 @@ class Alexsander:
 - 📊 Trabalho como **Analista de Dados**: transformo dados brutos em **dashboards, indicadores e decisões** com SQL, Power BI e Excel.
 - 🐍 Uso **Python** para ir além da planilha — automatizar coleta, tratar dados e construir APIs que entregam a informação pronta.
 - 🔭 Meus projetos vão de **GPS de ônibus em tempo real** a **métricas de similaridade entre documentos**.
-- 🌱 Estudando **LLMs, prompt engineering** e como usar IA de forma honesta e mensurável.
+- 🤖 Tenho conhecimento no **uso de IA** no dia a dia de dados e desenvolvimento: uso o **Claude** para acelerar análises, escrever e revisar SQL/Python e automatizar tarefas — sempre validando o resultado.
+- 🌱 Estudando **LLMs e prompt engineering** a fundo, e como usar IA de forma honesta e mensurável.
 - 💬 Me chama para falar de **dados, BI, Python** ou dados abertos.
 
 ---
@@ -41,6 +43,12 @@ class Alexsander:
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="48" alt="Excel" title="Excel" />
 <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" height="48" alt="SQL Server" title="SQL Server" />
 <img src="https://skillicons.dev/icons?i=mysql,postgres,py" height="48" alt="MySQL, PostgreSQL, Python" />
+
+**Inteligência Artificial**<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" height="48" alt="Claude" title="Claude" /><br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-bd93f9?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/LLMs-ff79c6?style=for-the-badge" alt="LLMs" />
 
 **Back-end**<br/><br/>
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask,sqlite&perline=4" alt="FastAPI, Django, Flask, SQLite" />
