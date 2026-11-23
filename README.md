@@ -1,71 +1,125 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=200&section=header&text=Alexsander%20Dias&fontSize=46&fontColor=f8f8f2&fontAlignY=36&desc=Back-end%20Python%20Developer&descAlignY=56&descSize=18" width="100%" alt="Alexsander Dias — Back-end Python Developer" />
 
-###
+<div align="center">
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=620&lines=APIs+r%C3%A1pidas+com+FastAPI%2C+Django+e+Flask;Dados+p%C3%BAblicos+viram+produto+no+mapa;Python+%2B+Docker+%2B+PostgreSQL;Sempre+construindo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+
+<a href="https://www.linkedin.com/in/alexsanderdias/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:alexsanderdiascunha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://open.spotify.com/user/bolc4ky9fdpcqsmyji00j66fk" target="_blank"><img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify" /></a>
+<img src="https://komarev.com/ghpvc/?username=nebulousholly&style=for-the-badge&color=bd93f9&label=VISITAS" alt="Visitas ao perfil" />
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/alexsanderdias/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:alexsanderdiascunha@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://open.spotify.com/user/bolc4ky9fdpcqsmyji00j66fk?si=d3fd372734504344" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
-  </a>
+## 👨‍💻 Sobre mim
+
+```python
+class Alexsander:
+    cargo = "Desenvolvedor Back-end Python"
+    foco = ["APIs REST", "integração de dados públicos", "processamento de texto", "IA aplicada"]
+    stack_principal = ["Python", "FastAPI", "Django", "Flask", "PostgreSQL", "Docker"]
+    tambem_mando_bem_em = ["React", "Next.js", "TypeScript"]
+    status = "🟢 aberto a oportunidades"
+```
+
+- 🔭 Construo **back-ends que transformam dados brutos em produto**: de GPS de ônibus em tempo real a métricas de similaridade entre documentos.
+- ⚙️ Gosto de código **testado, documentado e containerizado** — `docker compose up` e pronto.
+- 🌱 Estudando **LLMs, prompt engineering** e como usar IA de forma honesta e mensurável.
+- 💬 Me chama para falar de **Python, APIs, dados abertos** ou mobilidade urbana.
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+**Back-end & Dados**<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,flask,postgres,sqlite&perline=6" alt="Python, FastAPI, Django, Flask, PostgreSQL, SQLite" />
+
+**Infra & Ferramentas**<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,gcp,git,github&perline=5" alt="Docker, Linux, Google Cloud, Git, GitHub" />
+
+**Front-end (quando precisa)**<br/><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html&perline=6" alt="TypeScript, JavaScript, React, Next.js, Tailwind, HTML" />
+
+**Maker**<br/><br/>
+<img src="https://skillicons.dev/icons?i=arduino,blender&perline=2" alt="Arduino, Blender" />
+
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/nebulousholly/nebulousholly/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+## 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚌 <a href="https://github.com/nebulousholly/LiveBus">LiveBus</a></h3>
+      <p>Ônibus convencionais e <b>BRT do Rio de Janeiro em tempo real</b> num mapa interativo, com busca de linhas, traçado de rotas e planejador de viagem.</p>
+      <p>API em <b>FastAPI</b> que consome GPS público e GTFS da SMTR, normaliza os dados e usa cache em memória. Front em Next.js atualizando a cada 20s.</p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/nebulousholly/Comparador-de-Textos---TCC">Comparador de Textos</a> <sub>TCC</sub></h3>
+      <p>Compara dois documentos (<b>PDF, DOCX ou TXT</b>) com <b>7 métricas de similaridade</b> — TF-IDF/cosseno, Jaccard, alinhamento de sentenças e mais — e gera um <b>Índice Geral de Similaridade</b> explicável.</p>
+      <p>Destaca os trechos mais parecidos e exporta relatório em PDF, TXT ou JSON.</p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/NLP-bd93f9?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍎 <a href="https://github.com/nebulousholly/gestao-cardapio-escolar">Gestão de Cardápio Escolar</a></h3>
+      <p>Plataforma para <b>cardápio escolar e educação alimentar</b>: cardápio semanal, sugestões de pratos, registro de consumo e painel admin com <b>importação de PDF</b> e indicadores de impacto.</p>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>✍️ <a href="https://github.com/nebulousholly/redija">Redija</a></h3>
+      <p>Assistente de estudos para a <b>redação do ENEM</b> que responde por busca em base de conhecimento curada — <b>sem API de IA paga</b> e admitindo quando não sabe.</p>
+      <p>Avaliado com métricas reais: <b>Precisão@1 de 90%</b> e 0 falsos positivos.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zero_dependências-50fa7b?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/nebulousholly?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_os_repositórios-282a36?style=for-the-badge&logo=github&logoColor=bd93f9" alt="Ver todos os repositórios" /></a>
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nebulousholly/nebulousholly/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nebulousholly/nebulousholly/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nebulousholly/nebulousholly/pacman-output/pacman-contribution-graph.svg?game=pacman">
+## 📊 Números
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nebulousholly/nebulousholly/languages-output/languages.svg" height="150" alt="Linguagens mais usadas" />
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nebulousholly/nebulousholly/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nebulousholly/nebulousholly/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/nebulousholly/nebulousholly/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+<div align="center">
+
+### 🤝 Bora conversar?
+
+Aberto a vagas e projetos de **back-end Python**. O jeito mais rápido de me achar é pelo **[LinkedIn](https://www.linkedin.com/in/alexsanderdias/)** ou pelo **[e-mail](mailto:alexsanderdiascunha@gmail.com)**.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:282a36&height=120&section=footer" width="100%" alt="" />
